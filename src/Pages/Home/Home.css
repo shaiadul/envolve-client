@@ -1,0 +1,47 @@
+.home-container {
+    background-image:
+    linear-gradient(to bottom, rgba(71, 71, 73, 0.614), rgba(105, 102, 104, 0.54)),
+    url('https://i.ytimg.com/vi/gey73xiS8F4/maxresdefault.jpg');
+    /* background-image: url("https://i.ytimg.com/vi/gey73xiS8F4/maxresdefault.jpg"); */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    /* background: linear-gradient(#333, #333 50%, #eee 100%); */
+}
+.text-mine{
+    color: rgb(255, 255, 255);
+    font-size: 70px;
+    padding-top: 200px;
+    margin-bottom: 40px;
+}
+.see-link{
+    text-decoration: none;
+    font-size: 25px;
+    color: #eb699e;
+    border: 2px solid #eb699e;
+    padding: 6px;
+    border-radius: 5px;
+    margin-top: 300px;
+    color: #eb699e;
+    font-weight: 800;
+}
+.see-link:hover{
+    background-color: #eb699e;
+    color: white;
+}
+.bgServices{
+    background-color: white;
+}
+.bookingBtn{
+    text-decoration: none;
+    border: 3px solid rgba(128, 128, 128, 0.283);
+    font-size: 21px;
+    font-weight: 800;
+    padding: 4px;
+    color: gray;
+}
+.bookingBtn:hover{
+   background-color: rgb(188, 186, 183);
+   color: whitesmoke;
+}

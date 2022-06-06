@@ -1,0 +1,12 @@
+.signOutBtn{
+    padding: 5px;
+    background-color: transparent;
+    border: 4px solid rgba(255, 255, 255, 0.459);
+    color: aliceblue;
+    font-weight: 900;
+}
+.signOutBtn:hover{
+    background-color: rgba(245, 245, 245, 0.276);
+    color: black;
+    
+}

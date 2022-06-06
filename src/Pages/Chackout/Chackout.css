@@ -1,0 +1,23 @@
+.from-line{
+    padding: 10px;
+}
+.checkText{
+    color: #c4024f;
+    margin-bottom: 15px;
+}
+.FromSubmit{
+    background-color: #66595e;
+    font-weight: 700;
+    color: rgb(246, 246, 246);
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+}
+.FromSize{
+    width: 250px;
+    border-radius: 5px;
+    border: none;
+    padding: 5px;
+    background-color: #c1bdbf;
+}

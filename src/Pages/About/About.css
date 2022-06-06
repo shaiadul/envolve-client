@@ -1,0 +1,21 @@
+.bgAbout{
+    background-color: gainsboro;
+}
+.text-p-info{
+    color: #6f1022;
+    border-bottom: 5px solid #6f1022;
+    display: inline-block;
+}
+.titleOfGoal{
+    background: #000;
+    color: antiquewhite;
+    font-weight: 800;
+    padding: 2px;
+}
+.justifying{
+    text-align: justify;
+    border: 4px solid #6f102144;
+    padding: 4px;
+    margin-top: 100px;
+    background-color: #6f102133;
+}
